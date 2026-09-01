@@ -5,7 +5,7 @@ public class StudiKasus02_05 {
            Scanner sc = new Scanner(System.in);
 
         int jml_tabungan_awal, lama_menabung;
-        double presentase_bunga = 0.02, bunga, jml_tabungan_akhir;
+        double presentase_bunga = 1.02, bunga, jml_tabungan_akhir;
 
         System.out.print("masukan jumlah tabungan awal anda: ");
         jml_tabungan_awal = sc.nextInt();

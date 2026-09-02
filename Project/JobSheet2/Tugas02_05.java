@@ -25,6 +25,6 @@ public static void main(String[] args) {
         sisa_tanah = luas_tanah - luas_kolam - luas_taman;
 
         //Output
-        System.out.println("sisa tanah adalah: " + sisa_tanah + "m");
+        System.out.println("sisa tanah adalah: " + sisa_tanah + " m²");
 }
 }
